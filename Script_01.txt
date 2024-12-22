@@ -1,0 +1,8 @@
+class_name Enemy extends kinematic_body
+
+@export var hp : int = 100
+
+var attack : float = 1.5
+
+
+
